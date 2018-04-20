@@ -4,7 +4,6 @@ current: home
 class: 'home-template'
 navigation: True
 ---
-<wrap markdown = o>
 <!-- < default -->
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
@@ -37,4 +36,3 @@ into the {body} of the default.hbs template -->
 
     </div>
 </main>
-</wrap>
