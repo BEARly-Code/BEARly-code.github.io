@@ -42,4 +42,3 @@ permalink: /:author/:title
 exclude:
   - README.md
   - .git*
-  - CNAME
