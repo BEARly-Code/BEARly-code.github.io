@@ -7,7 +7,7 @@ language: 'en-uk'
 
 # Website info
 title: BEARly
-description: A collection of Beginner friendly sayiings
+description: A collection of Beginner friendly sayings
 cover: images/assets/cover.png
 logo: images/assets/icon.png
 logo_dark: images/assets/favicon.png
