@@ -37,3 +37,9 @@ feed:
 
 # Permalinks
 permalink: /:author/:title
+
+# Excluded files
+exclude:
+  - README.md
+  - .git*
+  - CNAME
